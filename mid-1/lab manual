@@ -1,0 +1,40 @@
+1:-solution
+Write a program to demonstrate different number data types in Python.
+a=24
+print(type(a))
+b=2.4
+print(type(b))
+c=2+4j
+print(type(c))
+
+output:-<class 'int'>
+<class 'float'>
+<class 'complex'>
+
+2:- solution
+Write a program to perform different Arithmetic Operations on numbers in Python. 
+a=2
+b=5
+print("sum",(a+b))
+print("sub",(a-b))
+print("mul",(a*b))
+print("div",(a/b))
+
+output:-sum 7
+sub -3
+mul 10
+div 0.4
+
+3:-Write a program to create, concatenate and print a string and 
+accessing sub-string from a given string.
+Solution:-string1='Ashu'
+string2='Reddy'
+print(string1)
+print(string2)
+print(string1+string2)
+print(string1*3)
+
+output:-Ashu
+Reddy
+AshuReddy
+AshuAshuAshu
